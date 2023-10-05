@@ -1,4 +1,6 @@
 import { StyleSheet, Text, View } from "react-native";
+import { shuffleArray } from "../components/Functions";
+import Card from "../components/Card";
 
 const GameBoard = () => {
     return (
